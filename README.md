@@ -1,1 +1,1 @@
-# NFT-preview-card-component-main-1-
+# NFT-preview-card-component
